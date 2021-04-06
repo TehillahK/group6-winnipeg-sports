@@ -1,0 +1,17 @@
+.body {
+  background-color: gray;
+}
+
+.body .container-fluid .features {
+  background-color: gray;
+  min-width: 100vh;
+}
+
+.body .container-fluid .features .card {
+  margin: 10px;
+}
+
+.body .container-fluid .features ol li {
+  list-style-type: none;
+}
+/*# sourceMappingURL=feature.css.map */

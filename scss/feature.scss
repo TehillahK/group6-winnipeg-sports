@@ -1,0 +1,21 @@
+.body{
+    background-color: gray;
+.container-fluid{
+    .features{
+        .card{
+            margin: 10px;
+        }
+        background-color: gray;
+        //min-height: 100vh;
+        min-width:  100vh;
+        ol {
+            li{
+                list-style-type: none;
+                
+            }
+           
+            //color:blue;
+          }
+    }
+}
+}

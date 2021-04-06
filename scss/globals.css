@@ -24,30 +24,4 @@ body {
 body h3 {
   margin-right: 1rem;
 }
-
-header {
-  background-color: white;
-}
-
-header nav {
-  background-color: white;
-}
-
-.container-fluid .features {
-  background-color: gray;
-  min-width: 100vh;
-}
-
-.container-fluid .features ol li {
-  list-style-type: none;
-}
-
-.container-fluid .features ol li .card {
-  margin: 10px;
-}
-
-.social-media a {
-  -webkit-text-decoration-color: white;
-          text-decoration-color: white;
-}
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=globals.css.map */
