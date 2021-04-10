@@ -70,7 +70,9 @@ nav {
 }
 
 .sell-pitch .container {
-  margin: 300px;
+  color: royalblue;
+  background-color: black;
+  padding: 30px;
 }
 
 footer {

@@ -2,7 +2,6 @@
   background-image: url("https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2019/11/JOHV18831552.jpg");
   /* Full height */
   height: 100%;
-  padding: 300px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
@@ -11,7 +10,9 @@
 }
 
 .sell-pitch .container {
-  margin: 50px;
+  color: royalblue;
   background-color: black;
+  opacity: 0.6;
+  padding: 30px;
 }
 /*# sourceMappingURL=sells-pitch.css.map */
