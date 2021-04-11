@@ -1,5 +1,10 @@
+.dev ol {
+  list-style: none;
+}
+
 .dev ol li {
   position: relative;
   text-align: left;
+  margin-bottom: 20px;
 }
 /*# sourceMappingURL=devolpment-process.css.map */
