@@ -51,7 +51,7 @@ nav {
 }
 
 .body .container-fluid .features .card {
-  margin: 10px;
+  margin: 100px;
 }
 
 .body .container-fluid .features ol li {
@@ -62,6 +62,7 @@ nav {
   background-image: url("https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2019/11/JOHV18831552.jpg");
   /* Full height */
   height: 100%;
+  padding: 30px;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
@@ -72,13 +73,11 @@ nav {
 .sell-pitch .container {
   color: royalblue;
   background-color: black;
+  opacity: 0.6;
   padding: 30px;
 }
 
-footer {
-  background-color: black;
-}
-
+@impo @import "footer";
 .social-media a {
   -webkit-text-decoration-color: white;
           text-decoration-color: white;
