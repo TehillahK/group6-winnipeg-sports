@@ -17,6 +17,10 @@ nav{
 p{
     text-align: justify;
 }
+#video .container-fluid{
+    background-image:url("/images/Skiks\ Games\ Live\ Twitch\ Banner.png") ;
+    height: 100%;
+}
 .sell-pitch {
     background-image: url("https://www.citynews1130.com/wp-content/blogs.dir/sites/9/2019/11/JOHV18831552.jpg");
     /* Full height */
